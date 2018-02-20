@@ -1,0 +1,171 @@
+1507220777657	geckodriver	INFO	geckodriver 0.18.0
+1507220777673	geckodriver	INFO	Listening on 127.0.0.1:50194
+1507220779776	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507220781589	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507220781960	Marionette	INFO	Enabled via --marionette
+1507220783615	Marionette	INFO	Listening on port 50201
+1507220783626	Marionette	INFO	Listening on port 50201
+1507220784036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507220784113	Marionette	DEBUG	loaded listener.js
+1507220784138	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507220784995	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507220784995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507220786039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786297	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+1507220786298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786300	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+1507220786318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786323	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+1507220786323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786324	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+1507220786325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786326	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+1507220786326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786327	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+1507220786327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/HillaryClinton"
+1507220786328	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+1507220787856	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/HillaryClinton"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+1507820931874	geckodriver	INFO	geckodriver 0.18.0
+1507820931882	geckodriver	INFO	Listening on 127.0.0.1:56923
+1507820933944	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507820934539	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507820935020	Marionette	INFO	Enabled via --marionette
+1507820936514	Marionette	INFO	Listening on port 56929
+1507820936541	Marionette	INFO	Listening on port 56929
+1507820937291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507820937346	Marionette	DEBUG	loaded listener.js
+1507820978914	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507820979674	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507820979675	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1507820981028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://archive.org/stream/Book5TheOrderOfThePhoenix/Book%201%20-%20The%20Philosopher's%20Stone_djvu.txt"
+1507820981134	Marionette	DEBUG	Received DOM event "pageshow" for "https://archive.org/stream/Book5TheOrderOfThePhoenix/Book%201%20-%20The%20Philosopher's%20Stone_djvu.txt"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+1507821123133	geckodriver::marionette	ERROR	Failed to kill browser process
+1508085786475	geckodriver	INFO	geckodriver 0.18.0
+1508085786475	geckodriver	INFO	Listening on 127.0.0.1:62510
+1508085788538	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508088981165	geckodriver	INFO	geckodriver 0.18.0
+1508088981170	geckodriver	INFO	Listening on 127.0.0.1:63391
+1508088983254	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508088984698	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508088985029	Marionette	INFO	Enabled via --marionette
+1508088986259	Marionette	INFO	Listening on port 63397
+1508088986481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508088986535	Marionette	DEBUG	Register listener.js for window 4294967297
+1508088998889	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508088999402	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508088999402	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508089000130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.7novels.com/harry-potter-and-the-prisoner-of-azkaban/chapter-1-owl-post-67720.html"
+1508089001177	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.7novels.com/harry-potter-and-the-prisoner-of-azkaban/chapter-1-owl-post-67720.html"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+1508089222090	geckodriver::marionette	ERROR	Failed to kill browser process
+1508089313584	geckodriver	INFO	geckodriver 0.18.0
+1508089313592	geckodriver	INFO	Listening on 127.0.0.1:63504
+1508089315661	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508089315925	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508089316415	Marionette	INFO	Enabled via --marionette
+1508089318002	Marionette	INFO	Listening on port 63511
+1508089318802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508089318833	Marionette	DEBUG	Register listener.js for window 4294967297
+1508089318892	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508089319328	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508089319328	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508089320216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.7novels.com/harry-potter-and-the-prisoner-of-azkaban/chapter-1-owl-post-67720.html"
+1508089321314	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.7novels.com/harry-potter-and-the-prisoner-of-azkaban/chapter-1-owl-post-67720.html"
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8200] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+anagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508090039754	Marionette	INFO	Enabled via --marionette
+1508090041126	Marionette	INFO	Listening on port 63788
+1508090042230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508090042265	Marionette	DEBUG	Register listener.js for window 6442450945
+1508090042305	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508090042898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508090042898	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508090043631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.7novels.com/harry-potter-and-the-prisoner-of-azkaban/chapter-1-owl-post-67720.html"
+1508090045031	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.7novels.com/harry-potter-and-the-prisoner-of-azkaban/chapter-1-owl-post-67720.html"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+1508269149097	geckodriver	INFO	geckodriver 0.18.0
+1508269149105	geckodriver	INFO	Listening on 127.0.0.1:60999
+1508269151158	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508269151637	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508269152119	Marionette	INFO	Enabled via --marionette
+1508269153622	Marionette	INFO	Listening on port 61005
+1508269154329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508269154396	Marionette	DEBUG	Register listener.js for window 6442450945
+1508269154451	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508269154910	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508269154910	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508269155533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/katyperry"
+1508269156813	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/katyperry"
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+1508375183055	geckodriver	INFO	geckodriver 0.18.0
+1508375183064	geckodriver	INFO	Listening on 127.0.0.1:51879
+1508375185154	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508375185795	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508375186403	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9692] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508375188505	Marionette	INFO	Listening on port 51885
+1508375188873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508375188923	Marionette	DEBUG	Register listener.js for window 4294967297
+1508375189023	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508375189614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508375189614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508375190589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/katyperry"
+1508375191074	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/katyperry"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+1508375874861	geckodriver	INFO	geckodriver 0.18.0
+1508375874870	geckodriver	INFO	Listening on 127.0.0.1:52134
+1508375876915	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508375877468	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508375878182	Marionette	INFO	Enabled via --marionette
+1508375880519	Marionette	INFO	Listening on port 52140
+1508375880569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508375880624	Marionette	DEBUG	Register listener.js for window 4294967297
+1508375880664	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508375881100	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508375881100	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508375882542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/katyperry"
+1508375885818	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/katyperry"
+1508376119024	Marionette	DEBUG	Register listener.js for window 8589934593
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrpaths.vrpath
+1512629880450	geckodriver	INFO	geckodriver 0.18.0
+1512629880456	geckodriver	INFO	Listening on 127.0.0.1:56781
+1512629882534	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1512631166537	geckodriver::marionette	ERROR	Failed to kill browser process

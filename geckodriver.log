@@ -169,3 +169,6 @@ Unable to read VR Path Registry from C:\Users\veena\AppData\Local\openvr\openvrp
 1512629880456	geckodriver	INFO	Listening on 127.0.0.1:56781
 1512629882534	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
 1512631166537	geckodriver::marionette	ERROR	Failed to kill browser process
+1538705421970	geckodriver	INFO	geckodriver 0.18.0
+1538705421978	geckodriver	INFO	Listening on 127.0.0.1:54340
+1538705424044	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]

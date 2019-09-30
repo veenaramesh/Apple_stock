@@ -1,2 +1,1 @@
-1/18 -- Forecasting Apple Stock Prices
-wip
+# Forecasting Apple Stock Prices
